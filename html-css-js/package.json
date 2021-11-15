@@ -1,8 +1,8 @@
 {
-  "name": "dropdown",
+  "name": "project-name",
   "version": "1.0.0",
   "private": true,
-  "description": "Animated Moon built with css",
+  "description": "",
   "main": "index.js",
   "author": "Signal Fish",
   "license": "MIT",
